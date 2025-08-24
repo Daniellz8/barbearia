@@ -1,0 +1,47 @@
+img {
+    height:280px;
+    width:450px;
+    
+}
+body{
+    background-color:rgb(219, 219, 219);
+    color:rgb(0, 0, 0);
+}
+
+div {
+    width:650px;
+    margin:0px auto;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family:verdana;
+    font-size:26px;
+}
+
+h2 {font-size:18px;
+}
+
+h3 {
+    border:solid black;
+    border-right:5px;
+    border-left:5px;
+    font-size:16px;
+}
+
+a {
+    color:white;
+    background-color:rgb(14, 98, 14);
+    text-decoration:none;
+    padding:8px;
+    border-radius:20px;    
+}
+
+p {
+    padding:0px 0px 20px 0px;
+    font-size:16px;
+    line-height:22px;
+}
+
+span {font-weight:bold;}
